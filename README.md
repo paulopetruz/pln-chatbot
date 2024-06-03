@@ -1,6 +1,6 @@
-**# Projeto final: Desenvolvimento de Chatbot com Análise de Sentimento**
+# Projeto final: Desenvolvimento de Chatbot com Análise de Sentimento
 
-**## Objetivo:**
+## Objetivo:
 
 Desenvolver um chatbot capaz de interagir com usuários, compreendendo e respondendo a mensagens de forma contextualmente relevante, utilizando técnicas de processamento de linguagem natural, com ênfase na análise de sentimentos.
 
