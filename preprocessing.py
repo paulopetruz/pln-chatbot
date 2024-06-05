@@ -10,6 +10,9 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 def preprocess_text(text):
+    # Verificar se a entrada é uma string
+    if not isinstance(text, str):
+        return ''
     # Remover URLs
     text = re.sub(r"http\S+|www\S+|https\S+", '', text, flags=re.MULTILINE)
     # Remover menções e hashtags

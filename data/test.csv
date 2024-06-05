@@ -1,4 +1,4 @@
-textID,text,sentiment,Time of Tweet,Age of User,Country,Population -2020,Land Area (Km�),Density (P/Km�)
+textID,text,sentiment,Time of Tweet,Age of User,Country,Population -2020,Land Area (Km²),Density (P/Km²)
 f87dea47db,Last session of the day  http://twitpic.com/67ezh,neutral,morning,0-20,Afghanistan,38928346,652860,60
 96d74cb729, Shanghai is also really exciting (precisely -- skyscrapers galore). Good tweeps in China:  (SH)  (BJ).,positive,noon,21-30,Albania,2877797,27400,105
 eee518ae67,"Recession hit Veronique Branquinho, she has to quit her company, such a shame!",negative,night,31-45,Algeria,43851044,2381740,18
@@ -27,7 +27,7 @@ f0ef04109b,about to go to sleep,neutral,night,70-100,Brazil,212559417,8358140,25
 c50bdd4567, thats so cool,positive,noon,21-30,Bulgaria,6948445,108560,64
 334954f215,"hey peoples, dont you just hate being grounded haha, im just sat eating an apple and watching death note (some anime)",neutral,night,31-45,Burkina Faso,20903273,273600,76
 b783916431,"Huh, another ScarePoint coding Sunday",neutral,morning,46-60,Burundi,11890784,25680,463
-1fa8e6ad66, look who I found just for you  --->  http://twitter.com/DJT2009,positive,noon,60-70,C�te d'Ivoire,26378274,318000,83
+1fa8e6ad66, look who I found just for you  --->  http://twitter.com/DJT2009,positive,noon,60-70,Côte d'Ivoire,26378274,318000,83
 be38b29042,"No AC, the fan doesnt swing our way ... we are sweating it out on a hot humid day",negative,night,70-100,Cabo Verde,555987,4.03E+03,138
 95701e8ed9, guess that depends on if you want to be on the jury,neutral,morning,0-20,Cambodia,16718965,176520,95
 4dd58ecd2c,resorted to eating Mickey Ds ALONE.,neutral,noon,21-30,Cameroon,26545863,472710,56
@@ -144,7 +144,7 @@ bcb9426abb,I wish I could go to #BEA this weekend.,positive,night,70-100,Peru,32
 d5712716e9, well thank your phone for me.,positive,noon,60-70,Romania,19237691,230170,84
 3f90f95beb, why would they take a photo with stuffed animals?! that`s pretty funny,positive,night,70-100,Russia,145934462,16376870,9
 c108e09b19,TweetDeck is acting really strange! Hum........ reinstall maybe. Update on the horizon? Or is it just another Adobe memory leak,neutral,morning,0-20,Rwanda,12952218,24670,525
-7223fdccc2,tikcets are only ï¿½91...each...BUT I SO WANT TO GO,positive,noon,21-30,Saint Kitts and Nevis,53199,260,205
+7223fdccc2,tikcets are only Ã¯Â¿Â½91...each...BUT I SO WANT TO GO,positive,noon,21-30,Saint Kitts and Nevis,53199,260,205
 f254748cdb, Happy Mothers Day,positive,night,31-45,Saint Lucia,183627,610,301
 256453d14f, It`s gonna be hot here today too. today is Ryan`s last day of pre-k. I can`t believe it!  I`ve been a SAHM since I had him!,negative,morning,46-60,Saint Vincent and the Grenadines,110940,390,284
 8fd01857a9,is dreaming of the weekend... awake!,neutral,noon,60-70,Samoa,198414,2830,70
@@ -222,7 +222,7 @@ e6e02e1be6,Be sure to let the moms you know how fabulous you think they are!!   
 0f89951346,No launch today. Teacher changed plans and we watched a stupid move about tesla,negative,noon,60-70,Bulgaria,6948445,108560,64
 f3ec0395b0,  it`s very pleasant. i sooo rarely just have time to kill...,positive,night,70-100,Burkina Faso,20903273,273600,76
 37ffa83550, thank you!! ooh I see you`ve read Desert Islands http://is.gd/ys6K great book!,positive,morning,0-20,Burundi,11890784,25680,463
-cb8c730261,__O lol but tiz a good song,positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+cb8c730261,__O lol but tiz a good song,positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 be33b5cb9a,Again working on the internet shop ... don`t think we will achieve the goal of uploading by the previously set time   Will keep going,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 4fed31099f,"@_Anix_ I bought cheesecake ice cream last week, thinking it was good, and it sucked so much.   I`m taking yours.",negative,morning,46-60,Cambodia,16718965,176520,95
 de288eb45b, what causes the frustration buddy?,neutral,noon,60-70,Cameroon,26545863,472710,56
@@ -417,7 +417,7 @@ c44b286776,_Cal Work or...(hehe mind in the gutter)! I`m sittin here doin this s
 52ad93b3fe,Oh No!!!! I must be gettin old!!!! My mom use to watch this show....I miss her,negative,noon,21-30,Bulgaria,6948445,108560,64
 e892068fd3," lol that just totally made me laugh, which made my day",positive,night,31-45,Burkina Faso,20903273,273600,76
 226adfd977,tonight was fun,positive,morning,46-60,Burundi,11890784,25680,463
-47f11efc72, this creepy guy when I was walking the dog  I`ve had my fill of creepers for the day,neutral,noon,60-70,C�te d'Ivoire,26378274,318000,83
+47f11efc72, this creepy guy when I was walking the dog  I`ve had my fill of creepers for the day,neutral,noon,60-70,Côte d'Ivoire,26378274,318000,83
 d7b1ac80c4,Good morning!  Just took the longest shower ive ever taken in my life. Like 45 to 50 min shower!! Woah. lol,positive,night,70-100,Cabo Verde,555987,4.03E+03,138
 401cc22f49,is on facebook,neutral,morning,0-20,Cambodia,16718965,176520,95
 583bae2083,I get to drive my dad to the airport so he can fly to Vegas for the WSOP... I wanna go to Vegas...,neutral,noon,21-30,Cameroon,26545863,472710,56
@@ -612,12 +612,12 @@ af087c9deb,"  youre diabetic?   so is my dad.  & i might be too, not sure.  are 
 8823244442,I just really want to sleep butmy eyes won`t let me,negative,noon,60-70,Bulgaria,6948445,108560,64
 9bb06e4848, You should check yourz Rayne.,neutral,night,70-100,Burkina Faso,20903273,273600,76
 717e76b467,"_66 I haven`t had slip-ons in years, since my checkered days. Matter of fact I only have my torn up all black classics.",neutral,morning,0-20,Burundi,11890784,25680,463
-3b6fdcc518," Ian and I are going to a matinee tomorrow, or that`s the plan at least...it`s going to be too expensive for 3d at night",negative,noon,21-30,C�te d'Ivoire,26378274,318000,83
+3b6fdcc518," Ian and I are going to a matinee tomorrow, or that`s the plan at least...it`s going to be too expensive for 3d at night",negative,noon,21-30,Côte d'Ivoire,26378274,318000,83
 f6cb27e38e,He will be here in less than hour,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 419f3e9ef8," I know, but work is so boring. I prefer the  take on life",negative,morning,46-60,Cambodia,16718965,176520,95
 f29654c873, Gmorning Hermana! Thank you for your testimonial it is wonderful. Posted already.,positive,noon,60-70,Cameroon,26545863,472710,56
 7e46f3f92a, ha. nothing any man does is right on mothers day except for taking kids off mum`s hands for whole day,neutral,night,70-100,Canada,37742154,9093510,4
-43ad351369,"AHHH - Whatchu talkinï¿½ baby?  HAHAHA I canï¿½t believe youu:O heh, actually I can. Life is worth taking risks... http://tumblr.com/xs81qy54s",positive,morning,0-20,Central African Republic,4829767,622980,8
+43ad351369,"AHHH - Whatchu talkinÃ¯Â¿Â½ baby?  HAHAHA I canÃ¯Â¿Â½t believe youu:O heh, actually I can. Life is worth taking risks... http://tumblr.com/xs81qy54s",positive,morning,0-20,Central African Republic,4829767,622980,8
 853ebd7b47, Our raid leader made us run drills to practice switching,neutral,noon,21-30,Chad,16425864,1259200,13
 ef60a2d1e7," And Clang rocks, so you`re using it, right?  Anyways, according to the comments it`s in apple`s gcc too, dunno how public tho",neutral,night,31-45,Chile,19116201,743532,26
 983088f2b4,"Unlike cierra, i look like poop today. Whatevahh, lol.",neutral,morning,46-60,China,1439323776,9388211,153
@@ -799,7 +799,7 @@ b5e7df1efe,  sad face.,negative,noon,21-30,Bangladesh,164689383,130170,1265
 795556dc39,  out of commish for a few days in ATL with fam.  Just saw the updates to the .net website... Looks AWESOME!,positive,night,70-100,Belize,397628,22810,17
 38e8111514," awww that sucks  also, when i finish uni, you should totally have a mini housewarming. yes, work it around my schedule, LOL.",negative,morning,0-20,Benin,12123200,112760,108
 18ee9d146c,at famous dave`s with my mom. so hungry.,neutral,noon,21-30,Bhutan,771608,3.81E+04,20
-f5e9c0eef2, I would vote for you Miley but I live in Ireland  You`ll be fine  Good luck! Slï¿½n!(bye in irish ) Sorcha xxxx,positive,night,31-45,Bolivia,11673021,1083300,11
+f5e9c0eef2, I would vote for you Miley but I live in Ireland  You`ll be fine  Good luck! SlÃ¯Â¿Â½n!(bye in irish ) Sorcha xxxx,positive,night,31-45,Bolivia,11673021,1083300,11
 434e673353,"home for the nite, sleeping on the pull out bed with Maggie. wishing it was _durden  I got to find a apt",neutral,morning,46-60,Bosnia and Herzegovina,3280819,51000,64
 8b8932427d,"Oh..Summer begins..yay..  The fighting, Crying and stress has started with the kids..It`s only been 3 hrs since they got out.",negative,noon,60-70,Botswana,2351627,566730,4
 c5f383c0a0,I feel so deflated. No more doggy.,negative,night,70-100,Brazil,212559417,8358140,25
@@ -807,7 +807,7 @@ c5f383c0a0,I feel so deflated. No more doggy.,negative,night,70-100,Brazil,21255
 8def10379e, Omg really??  I sowwy! I`ll do it again! :-p I was tired when I did that this morning. :-p lol!,negative,noon,21-30,Bulgaria,6948445,108560,64
 74af7e0835,"owww, back pain  hm, walmart or no? i could get cupcakes~",negative,night,31-45,Burkina Faso,20903273,273600,76
 bb53ba1a89, i can`t believe that you guys are gonna stay just one day here in Rio de Janeiro again,neutral,morning,46-60,Burundi,11890784,25680,463
-11c5c7850b,Making my boyfriend look different.  He`s  cute no matter what. <3,positive,noon,60-70,C�te d'Ivoire,26378274,318000,83
+11c5c7850b,Making my boyfriend look different.  He`s  cute no matter what. <3,positive,noon,60-70,Côte d'Ivoire,26378274,318000,83
 455ef3e9b6, LOL thx,positive,night,70-100,Cabo Verde,555987,4.03E+03,138
 d761530c7f,is working until 11 tonight  http://plurk.com/p/x2kbv,neutral,morning,0-20,Cambodia,16718965,176520,95
 ed1e06027c, well there go my peace corps prospects.,positive,noon,21-30,Cameroon,26545863,472710,56
@@ -1002,7 +1002,7 @@ f877442216, Gosh I`ve a stinky old headache. Maybe I should have lunchfast,negat
 fe89e929f4,"i get so sucked in to true life, and that steve-o documentary was intense, i love that ****, it`s nice to see people get their lives back",neutral,noon,60-70,Bulgaria,6948445,108560,64
 0f4be91a14,I love my life  Ni night twitter!<3,positive,night,70-100,Burkina Faso,20903273,273600,76
 5225c062f9, We knew what what you meant!,neutral,morning,0-20,Burundi,11890784,25680,463
-bd499c0bf7,Succesfully following Tayla!!,positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+bd499c0bf7,Succesfully following Tayla!!,positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 483bb46b97,my new phrase is `you never doubt mo williams`   six game win streak!,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 dacb6d78af, Have fun tomorrow night. I think it will be more fun at a bar than art gallery. Wish I could be there,positive,morning,46-60,Cambodia,16718965,176520,95
 98b6544758, 4th... Please not! Maybe she`ll get 3 attempts and win tomorrow!!,neutral,noon,60-70,Cameroon,26545863,472710,56
@@ -1149,7 +1149,7 @@ bcbc9b5e75, Cheese and Onion! Vinegar taste weird on crisps! England`s got loads
 be4b907022,Ohh grandpas.. Stable.. Won`t kno all details til tomorrow when I visit... Keep him me and my fam in ur prayers..thank you  ... Goodnite,positive,noon,21-30,Zambia,18383955,743390,25
 760723a562,Sore throat. This is not good. I have four performances this weekend.,negative,night,31-45,Zimbabwe,14862924,386850,38
 f66a3af202, it because your handwriting isnt on any of them. and everyone is making fun of me because im sitting by myseld in the lrc,negative,morning,46-60,Afghanistan,38928346,652860,60
-6e60ed6d59,So disappointed about the talent lineup for 'Reventï¿½n Super Estrella 2009'...hmm...Have the feeling I won`t get tix this time around.,negative,noon,60-70,Albania,2877797,27400,105
+6e60ed6d59,So disappointed about the talent lineup for 'ReventÃ¯Â¿Â½n Super Estrella 2009'...hmm...Have the feeling I won`t get tix this time around.,negative,noon,60-70,Albania,2877797,27400,105
 9c01aa6afd,This is for all of you ppl! The 1 year Anniversary Video. http://is.gd/ysbs more to come after the break,neutral,night,70-100,Algeria,43851044,2381740,18
 412790a2ed," can I come!?   I`m Merci btw., I have always been so inspired by you since I was a teenager.",positive,morning,0-20,Andorra,77265,470,164
 266d2b648f, how crappy for him,negative,noon,21-30,Angola,32866272,1246700,26
@@ -1176,7 +1176,7 @@ f4c7e939ef,"Ha,  i`m giving spymaster a chance - just curious! will miss u",nega
 9048ec6e22,"Loves the 2nd half of even days, orch and jazz band with daddy",positive,noon,60-70,Bulgaria,6948445,108560,64
 c8a8b0e791,is tired. And turning off the Internet. You can play on it in the morning.,negative,night,70-100,Burkina Faso,20903273,273600,76
 3cb4d10927,Watching WALL-E.....it`s so cute but sad,neutral,morning,0-20,Burundi,11890784,25680,463
-112591001f,happy star wars day,positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+112591001f,happy star wars day,positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 0b91f39c27,Just got notified my podcast was accepted into iTunes. http://budurl.com/SBit Of course I then realized it was miss formated  Fixed now.,negative,night,31-45,Cabo Verde,555987,4.03E+03,138
 bc28048a07,Heyy.thnxx.or.inviting.me.to.ur.party.rob.ill.be.down.there.on.june.24th.ill.miss.u.when.u.go.to.italy....   <333333333 txt.me.hon!!!,positive,morning,46-60,Cambodia,16718965,176520,95
 9f32a3213d,is tired of summer already,negative,noon,60-70,Cameroon,26545863,472710,56
@@ -1371,7 +1371,7 @@ dbc696a3ef,is watching Mock the Week and is slowing cooking,neutral,night,70-100
 2b8b0a7d10,Is twubbing again,neutral,noon,21-30,Bulgaria,6948445,108560,64
 a8a1e94417,when da heck will the garage man get here I ask you.. WHEN..,negative,night,31-45,Burkina Faso,20903273,273600,76
 c99820b355,O.k i feel like i need to cry now  i can`t believe that in less than 2 years ill be walking across the stage to get a High School diploma!,neutral,morning,46-60,Burundi,11890784,25680,463
-4841c38e53,Just got a Ipod touch  Downloading apps for it now.,neutral,noon,60-70,C�te d'Ivoire,26378274,318000,83
+4841c38e53,Just got a Ipod touch  Downloading apps for it now.,neutral,noon,60-70,Côte d'Ivoire,26378274,318000,83
 bd3b30d13c,"Hey, hey, happy mother`s day!  http://plurk.com/p/svwii",positive,night,70-100,Cabo Verde,555987,4.03E+03,138
 8c03f75944, - ****. LOL ON FRIDAY.? ITS NOW SATURDAY HERE LOL. IM IN AUSTRALIA,neutral,morning,0-20,Cambodia,16718965,176520,95
 570a5c063b,_alfradique No fun   Well hopefully you don`t have much more to go...,positive,noon,21-30,Cameroon,26545863,472710,56
@@ -1566,7 +1566,7 @@ eea9145f1b, ack! I just read about your show  that`s horrible!!! No accounting f
 80832ca578, last week  and I interviewed  and we told him you are the FB queen! Glad to see you both connected,positive,noon,60-70,Bulgaria,6948445,108560,64
 be226efbd2, and I was just gonna ask you if you wanted to go to CLUB Hidden House on sat night. hehe.,positive,night,70-100,Burkina Faso,20903273,273600,76
 0b581d3f9f, Headed back to Baltimore tonight,neutral,morning,0-20,Burundi,11890784,25680,463
-1973abbb06," I`ve been well, thx. Just getting up for an early morning meeting and wondering why I agreed to it. Don`t like getting up early",neutral,noon,21-30,C�te d'Ivoire,26378274,318000,83
+1973abbb06," I`ve been well, thx. Just getting up for an early morning meeting and wondering why I agreed to it. Don`t like getting up early",neutral,noon,21-30,Côte d'Ivoire,26378274,318000,83
 7c6b2e810a, Writing or making sense ?,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 ab07a3fe36,5500 words and counting.  My hands hurt,negative,morning,46-60,Cambodia,16718965,176520,95
 b8d1e767b2,_ When they don`t pop well. I feel lousier after playing those.,negative,noon,60-70,Cameroon,26545863,472710,56
@@ -1632,7 +1632,7 @@ a9b19af9ee,LOVED 'Drag Me To Hell' and 'Up'...yeah my Spend the Day Studying pla
 62c9a90f1d,Having a cup of tea,neutral,noon,21-30,Bulgaria,6948445,108560,64
 2d5b920414, I`ll have to wait for the YouTube links,neutral,night,31-45,Burkina Faso,20903273,273600,76
 b96b9ecc3c,"Finished watching Episode 4&5 of Ruby Metaprogramming Screencasts. Lots of cool tips, great! But need to more coding practices to master.",positive,morning,46-60,Burundi,11890784,25680,463
-a0e8168015,"Going to twitter in english, for my foreign followers",neutral,noon,60-70,C�te d'Ivoire,26378274,318000,83
+a0e8168015,"Going to twitter in english, for my foreign followers",neutral,noon,60-70,Côte d'Ivoire,26378274,318000,83
 4f9ee6208c,_city tell brandon I said hi!!,neutral,night,70-100,Cabo Verde,555987,4.03E+03,138
 e5339e66dc," I love the site what a hoot, really enjoy the hair cuts in Thailand, always try to time ir just right, thanks for the tip",positive,morning,0-20,Cambodia,16718965,176520,95
 7811012154,Not made it to work  couldn`t get up feelin blurgh,negative,noon,21-30,Cameroon,26545863,472710,56
@@ -1643,7 +1643,7 @@ d682402e60,"Wow, Hugh Jackman TOTALLY bulked up for Wolverine. So so movie...but
 2983528f77,_amr i`m here  haha,neutral,morning,0-20,China,1439323776,9388211,153
 4bb00e884a,im depressed on this pretty day  Everyone either is doing something or CAN`T...bleh -.-,negative,noon,21-30,Colombia,50882891,1109500,46
 4e4e9c3802,The rain outside motivates me to sleep.,positive,night,31-45,Comoros,869601,1861,467
-fc6128f4e5,"ok i just spent like ï¿½50 on soundtracks, a galaxy class starship and EVE online. sigh",neutral,morning,46-60,Congo (Congo-Brazzaville),5518087,3.42E+05,16
+fc6128f4e5,"ok i just spent like Ã¯Â¿Â½50 on soundtracks, a galaxy class starship and EVE online. sigh",neutral,morning,46-60,Congo (Congo-Brazzaville),5518087,3.42E+05,16
 bed26c1d7f, HEY BUCK!!!!  love u loads!! LOVE 'WHAT THE BUCK?!',positive,noon,60-70,Costa Rica,5094118,51060,100
 b6262b919a,"Wow, my bed is SO comfy & my nap has been much too short. Getting up for work = do not want.",neutral,night,70-100,Croatia,4105267,55960,73
 61eae11e5e,..exams.  haha just remembrd the china buffet king yesterday. vair amusing ....,positive,morning,0-20,Cuba,11326616,106440,106
@@ -1729,7 +1729,7 @@ e0e9cb3902,<----------- is listening the **** out of Lamb of God,neutral,morning
 09140327f6,tomorrow is going to be sooo awkward & embarassing. lights & sounds last night was awesome,neutral,night,31-45,Netherlands,17134872,33720,508
 2fadf73014,"Still feeling weird about my ex and her engagement.  My mom made things worse.  I don`t even want her, but it`s still odd",negative,morning,46-60,New Zealand,4822233,263310,18
 ef5ba215b6,"a band from Hawaii with a Sublime sound, so all you sublime haters can just move along  ? http://blip.fm/~5yy4n",neutral,noon,60-70,Nicaragua,6624554,120340,55
-440e8fc447,Hockey was so fukinï¿½ good  **** you hole! xD,neutral,night,70-100,Niger,24206644,1266700,19
+440e8fc447,Hockey was so fukinÃ¯Â¿Â½ good  **** you hole! xD,neutral,night,70-100,Niger,24206644,1266700,19
 7eb1620dec, Shop smart.  Shop S Mart.,positive,morning,0-20,Nigeria,206139589,910770,226
 bdc7de6846," yes, that`s what I meant... I don`t have anything to turn it into Hirigana, though.",neutral,noon,21-30,North Korea,25778816,120410,214
 d2565af489, That is INCREDIBLY sweet!!!! What a good Hubby...,positive,night,31-45,North Macedonia,2083374,25220,83
@@ -1827,7 +1827,7 @@ fc28b797bb,about to take my mum out for jewellery shopping and a coffee for moth
 895cec1c48, i do but is just a haul vid/photo slideshow only. I only do it for fun  http://www.youtube.com/eyezaddiction,positive,noon,60-70,Bulgaria,6948445,108560,64
 8fb50df8d2,feeling so great!,positive,night,70-100,Burkina Faso,20903273,273600,76
 37fa199c50,AHHHHHHHH!I can`t get miley to notice me......,negative,morning,0-20,Burundi,11890784,25680,463
-121b9c13c2,"Coffee brewing, on this #musicmonday morning i`m #listening to the fray... Here`s to a good week",positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+121b9c13c2,"Coffee brewing, on this #musicmonday morning i`m #listening to the fray... Here`s to a good week",positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 451880b8a6,I Wanna be @ JET in the Mirage...     Couldn`t get to Hawaii either   *****Someday***** Much Love To THE_WOCKEEZ and SuperCr3w,positive,night,31-45,Cabo Verde,555987,4.03E+03,138
 c08a90abbd,Just finished yet another amazing book by Susan Elizabeth Philips!!!  God I love her books so much!!! Which one to read next??? hmmm...,positive,morning,46-60,Cambodia,16718965,176520,95
 23dad0b69f,_O_C I`m seriously screwed  I haven`t studied at all!!!! :`(,negative,noon,60-70,Cameroon,26545863,472710,56
@@ -1856,14 +1856,14 @@ db331541b6," my name is Jason, but sunshine works too.",neutral,noon,21-30,El Sa
 ade8ce79b8,"lied last weekend when she said she wouldn`t get upset, just an FYI.",neutral,morning,46-60,Eritrea,3546421,101000,35
 80d96cab37," hahaha! Guess you will have to reinforce your skates, haha... Remember who u r my friend, our semi-God with a gluten intolence",positive,noon,60-70,Estonia,1326535,42390,31
 2a054d9205, yeah i want to know what that is too!,neutral,night,70-100,"Eswatini (fmr. ""Swaziland"")",1160164,17200,67
-2f8250d0df,the day goes on and on...i think im gonna write a song about it! still thinking itï¿½s impossible for me to get a true friend  why????,negative,morning,0-20,Ethiopia,114963588,1000000,115
+2f8250d0df,the day goes on and on...i think im gonna write a song about it! still thinking itÃ¯Â¿Â½s impossible for me to get a true friend  why????,negative,morning,0-20,Ethiopia,114963588,1000000,115
 0c83190ad8,"OMG i meant  <3 you`re the perfect Wolverine,sir  hehe",positive,noon,21-30,Fiji,896445,18270,49
 7ebaf21cf7,hanging out with my babyy,neutral,night,31-45,Finland,5540720,3.04E+05,18
 cabf8f9dea, Not yet.... too early in the AM,neutral,morning,46-60,France,65273511,547557,119
 706a860942,"_tron oh god, whose tire?",neutral,noon,60-70,Gabon,2225734,257670,9
 5de3c34293,i am the only arabic girl who`s online  every one is  a sleep ..,neutral,night,70-100,Gambia,2416668,10120,239
 327f378bd9,I ate Something I don`t know what it is... Why do I keep Telling things about food,neutral,morning,0-20,Georgia,3989167,69490,57
-9d187014d5,Good morning... Iï¿½m soooo tierd,neutral,noon,21-30,Germany,83783942,348560,240
+9d187014d5,Good morning... IÃ¯Â¿Â½m soooo tierd,neutral,noon,21-30,Germany,83783942,348560,240
 e4f5ac16a7,_n Where can I get some?,neutral,night,31-45,Ghana,31072940,227540,137
 7120ebfa1b,  just wanna be there tonight,neutral,morning,46-60,Greece,10423054,128900,81
 1b64ea8f30,It`s only 10:30 and I am going to BED! Brain can`t focus at all.. Need a fresh new start. I pray that God grants me a fresh tomorrow.,neutral,noon,60-70,Grenada,112523,340,331
@@ -1975,7 +1975,7 @@ e05fd863d4, Lester?  Guessed her?  Yester-day?  You can think of something.  No 
 32b129dc3f,says Happy Mother`s Day to all the Moms out there.,positive,night,31-45,Thailand,69799978,510890,137
 b4031d0753," Yay me!  But, what in particular?",neutral,morning,46-60,Timor-Leste,1318445,14870,89
 e7a0f7ac99, I have to work  but I`ll just watch it later.. even though it`s not the same.,neutral,noon,60-70,Togo,8278724,54390,152
-a9da40eedd," Oh, final msg - Why didn`t you review my boardgame Bookchaseï¿½ when you were on telly? We didn`t even get a nice letter..",negative,night,70-100,Tonga,105695,720,147
+a9da40eedd," Oh, final msg - Why didn`t you review my boardgame BookchaseÃ¯Â¿Â½ when you were on telly? We didn`t even get a nice letter..",negative,night,70-100,Tonga,105695,720,147
 3c9419868b,"staying afterschool today  not that i have any 'friends' on here - but if i did , i`d tell `em to text me ! lol [ likin` us <3 ]",positive,morning,0-20,Trinidad and Tobago,1399488,5130,273
 0d45e4e926,"WIDE awake, scoffed 3/4`s of a pizza and feel like a sumo  such a weak day! Run tomorrow",neutral,noon,21-30,Tunisia,11818619,155360,76
 b667160840, then ill post it,neutral,night,31-45,Turkey,84339067,7.70E+05,110
@@ -1989,7 +1989,7 @@ bc7b967aea,Now I`m depressed again..ugh!!! HELP!!!,negative,morning,46-60,United
 9be622ea54,My spellingis awful on twiiter,negative,noon,60-70,Uruguay,3473730,175020,20
 faee4563bd,snowbear has finally come out...congrats che and warren,positive,night,70-100,Uzbekistan,33469203,425400,79
 02baa25e55,Oh no she stopped!,neutral,morning,0-20,Vanuatu,307145,1.22E+04,25
-e162b84433,Start of diet today  I think I have to face I will never get back down to 77kilos (unless I cut a leg off)ï¿½,negative,noon,21-30,Venezuela,28435940,882050,32
+e162b84433,Start of diet today  I think I have to face I will never get back down to 77kilos (unless I cut a leg off)Ã¯Â¿Â½,negative,noon,21-30,Venezuela,28435940,882050,32
 156816e845,"mmm, pizza for dinner. yum. but i burnt my mouth though ..",positive,night,31-45,Vietnam,97338579,310070,314
 c13b15d9d1,screw the fact you can`t post LONG updates on twitter,negative,morning,46-60,Yemen,29825964,527970,56
 204d6510c6,**** awake at 2 am !  i hate sickness,negative,noon,60-70,Zambia,18383955,743390,25
@@ -2022,7 +2022,7 @@ e5599343e7, knackered! been awake since 5 as couldn`t sleep! just started work n
 0b20eef5b1,"I don`t care about netsexor cams or the route to heaven, however, #lobster sounds super good.  I`m almost tempted to go get some.",positive,noon,21-30,Bulgaria,6948445,108560,64
 790af846a5,Nevermind! Beyonce doesn`t have a Twitter  Haha,positive,night,31-45,Burkina Faso,20903273,273600,76
 f6e3a6dd55,_Claire LOL  I will buy u some big star wars pants 4 Xmas !!!,neutral,morning,46-60,Burundi,11890784,25680,463
-abc1500c46, Don`t ever turn off the part of your brain that talks ****! That`s where fun comes from,positive,noon,60-70,C�te d'Ivoire,26378274,318000,83
+abc1500c46, Don`t ever turn off the part of your brain that talks ****! That`s where fun comes from,positive,noon,60-70,Côte d'Ivoire,26378274,318000,83
 9d6fc9c77a," no he sabido nada de ti, this is making me a bit sad I must say!",negative,night,70-100,Cabo Verde,555987,4.03E+03,138
 73e548424b,I missed the math trade,negative,morning,0-20,Cambodia,16718965,176520,95
 316d5aeaf6,Down in Wellington for the Monet Exhibition. Casually just bumped into Wayne Brady in our hotel lobby!!  Mega exciting!!!,positive,noon,21-30,Cameroon,26545863,472710,56
@@ -2099,7 +2099,7 @@ d60072b03a,"He can`t fix it.   I guess I`ll write until I get too bored then wat
 79e7a9ed8e, did you google it too? or maybe you actually knew the answer lol ps put uo the pics already from last night  im getting anxious,neutral,morning,0-20,Malawi,19129952,94280,203
 dabac40552," SUPER EXCITED. JUST BOUGHT MY TIX TO SEE HEY MONDAY ON 6/20. AGAIN.  ~SVETLANA J. DENVER,CO",positive,noon,21-30,Malaysia,32365999,328550,99
 b0cae38eb0, woop right am off to 'try' to get 2 sleep haha its 2 hot  have a good nightt x,neutral,night,31-45,Maldives,540544,300,1802
-96e77388b8,_Guy Me neither  But itï¿½s getting better,positive,morning,46-60,Mali,20250833,1220190,17
+96e77388b8,_Guy Me neither  But itÃ¯Â¿Â½s getting better,positive,morning,46-60,Mali,20250833,1220190,17
 3e9ba7f25b, try #fireflight first... female fronted metal is awesome..  ..  Unbreakable album would be a good start!,positive,noon,60-70,Malta,441543,320,1380
 4fb0995de8,Hows that possible? No rain forecast for Pinkpop? And I have no ticket,neutral,night,70-100,Marshall Islands,59190,180,329
 e711c03c57, I`m not sure about this tweet business  Why are the simple things so difficult?,negative,morning,0-20,Mauritania,4649658,1030700,5
@@ -2123,7 +2123,7 @@ a6aeb0b520, Good morning Dan! It`s my Bday and I plan on getting some exercise t
 495299c926,Have hardly worked out in the last two weeks but am losing weight.  Fear I`m losing muscle!!  Just made doc. appt. for injured foot,negative,morning,0-20,Nigeria,206139589,910770,226
 7f3b118605, will u say shoutout to NIKKI!!! please   (Soulja Boy Tell `Em LIVE live > http://ustre.am/2UhS),positive,noon,21-30,North Korea,25778816,120410,214
 3da6270b02, I hide my berry like a slave REGULARLY only today I was caught by massa   & im def not light enough to be a juice pouring slave,neutral,night,31-45,North Macedonia,2083374,25220,83
-9a2689017d,"Won a diamond for my compï¿½tition  , yaayy tomorow its the DIAMOND DANCE OFF !! Were the best  .. Still in montrï¿½al !!",positive,morning,46-60,Norway,5421241,3.65E+05,15
+9a2689017d,"Won a diamond for my compÃ¯Â¿Â½tition  , yaayy tomorow its the DIAMOND DANCE OFF !! Were the best  .. Still in montrÃ¯Â¿Â½al !!",positive,morning,46-60,Norway,5421241,3.65E+05,15
 5eea04087b,"Sitting here, waiting to go to the gym.....almost left, then realized I never charged my iPod from my trip to Wisconsin....it`s dead",neutral,noon,60-70,Oman,5106626,309500,16
 7058fc87de, Fighter - Christina Aguilera. LOVE that song,positive,night,70-100,Pakistan,220892340,770880,287
 95189cd3a8,warmed up nicely outside.  sucks being stuck inside coding,neutral,morning,0-20,Palau,18094,460,39
@@ -2217,7 +2217,7 @@ dd49f1179d,Im just thinking bout life. I need my bed. My fiance is in bed first,
 16357f7283, hope u did alright on the final,positive,noon,60-70,Bulgaria,6948445,108560,64
 5657eb8429,"Hey #socialmediatv  - I`m new here  - is this a recorded show, viewable later too?  thanks  (Social Media TV live > http://ustre.am/2NjV)",positive,night,70-100,Burkina Faso,20903273,273600,76
 65c7eae9b6,Hello everyone im just sitting here rocking out to 9412 sam on the air The best classic rock station on twitter here,positive,morning,0-20,Burundi,11890784,25680,463
-ebb86c4db5,Schwarzenegger proposes closing 220 state parks   http://bit.ly/MhKz0,neutral,noon,21-30,C�te d'Ivoire,26378274,318000,83
+ebb86c4db5,Schwarzenegger proposes closing 220 state parks   http://bit.ly/MhKz0,neutral,noon,21-30,Côte d'Ivoire,26378274,318000,83
 5bf798868a,http://twitpic.com/4wgp2 - Bambi will eat you,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 756d255e40,is at home with a pukey boy! Poor little baby,negative,morning,46-60,Cambodia,16718965,176520,95
 4d21d7611c, He`s an amazing jockey! Saw that Clydesdale commercial too..loved it!,positive,noon,60-70,Cameroon,26545863,472710,56
@@ -2412,7 +2412,7 @@ d8d52d2cb2,I`m loving Please Don`t Leave Me by Pink!,neutral,noon,60-70,Botswana
 89d0e4972c, me too! i wish it would just say who has unfollowed,positive,noon,21-30,Bulgaria,6948445,108560,64
 ac4f58fce3,@_NyLana_ An! Happy Mother`s Day!,positive,night,31-45,Burkina Faso,20903273,273600,76
 e8641ec31d,Phase 2 was a success. Self discovery is vital. Phase 3 is only mins away. Cool & Classy baby! Shout out 2 'D' yeah mane!,positive,morning,46-60,Burundi,11890784,25680,463
-a56416d946,_preet haha one of the many reasons I love you,positive,noon,60-70,C�te d'Ivoire,26378274,318000,83
+a56416d946,_preet haha one of the many reasons I love you,positive,noon,60-70,Côte d'Ivoire,26378274,318000,83
 efbd798924, Always welcome sweetie! *HUGS*,positive,night,70-100,Cabo Verde,555987,4.03E+03,138
 eff365b5b5,"Last day of the TV up-fronts w/ our colleagues from Sydney, Paris, London...",neutral,morning,0-20,Cambodia,16718965,176520,95
 53e1fc3b18,"_tweets I wish I could be there to give you the biggest hug right now. I`m so sorry, I can`t imagine how painful it must be",neutral,noon,21-30,Cameroon,26545863,472710,56
@@ -2607,7 +2607,7 @@ ace00f13fb,"Just Saw Confessions Of A Shopoholic...Totally fell in love with Hug
 54698d6dd1,EFF THAT NOISE!,neutral,noon,60-70,Bulgaria,6948445,108560,64
 b3cf47c9c0, That is so sweet!! Have a good day,positive,night,70-100,Burkina Faso,20903273,273600,76
 bd213e5f40,_Im_Chris and i cant get to mine  keep getting an error,negative,morning,0-20,Burundi,11890784,25680,463
-c964730131," Glad to hear you`ll have your 1st tournament soon. As KSN says, 'We need more practice!'",positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+c964730131," Glad to hear you`ll have your 1st tournament soon. As KSN says, 'We need more practice!'",positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 052fbbb0a9,Sat alone whilst jay plays on his phone,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 39e873ffd4,my myspace profile is OLLLD NEWSZ i need to editeditedittt,neutral,morning,46-60,Cambodia,16718965,176520,95
 e2c48f0201,"Slept in, woke up with an iced coffee, lazed about & went out for a late lunch with the BF. It`s been a sweet little laid-back Saturday.",neutral,noon,60-70,Cameroon,26545863,472710,56
@@ -2781,7 +2781,7 @@ df320b92cd,Off to a wedding!,neutral,noon,60-70,Bhutan,771608,3.81E+04,20
 d9bc353713,farewelling an employee tonight...,neutral,noon,60-70,Bulgaria,6948445,108560,64
 f4032fd33c,everyones just set to 'Away' on msn.. nobody to talk to :\,negative,night,70-100,Burkina Faso,20903273,273600,76
 93b34b1964, i skyped u  las nite,neutral,morning,0-20,Burundi,11890784,25680,463
-aa2c27ea07,I like Rio Ferdinand - when he`s wearing an England jersey.,positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+aa2c27ea07,I like Rio Ferdinand - when he`s wearing an England jersey.,positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 2e56c6a83e,Truly sad... My cheap little camcorder just shot craps.....,negative,night,31-45,Cabo Verde,555987,4.03E+03,138
 2e94c6bf84,sweet nk dreams love you all,positive,morning,46-60,Cambodia,16718965,176520,95
 a1b435d7b2,is obsessing over chris pine  heehee...,neutral,noon,60-70,Cameroon,26545863,472710,56
@@ -2976,7 +2976,7 @@ c7e96d2411,"Uh, happy mother`s day mum.",positive,morning,46-60,Bosnia and Herze
 311f189ee4, I`ll most definitely write about it! I look forward to your article on RE5 (if you do write about it) It should be fun.,positive,noon,21-30,Bulgaria,6948445,108560,64
 fa3d1d0975," Hugs 4 kathy. Though my mom`s in heaven, I know she`s smiling at my accomplishments & all the people who keep me positive.",positive,night,31-45,Burkina Faso,20903273,273600,76
 7005fce01c, oh noes I missed you again.,negative,morning,46-60,Burundi,11890784,25680,463
-0a4594beed, i don`t have anything being fwd through to mobileme and the last week i`ve gotten at least 4 -5 spam messages a day,neutral,noon,60-70,C�te d'Ivoire,26378274,318000,83
+0a4594beed, i don`t have anything being fwd through to mobileme and the last week i`ve gotten at least 4 -5 spam messages a day,neutral,noon,60-70,Côte d'Ivoire,26378274,318000,83
 667e216a44, ive been spending time w/my momma! we`re celebrating mother`s day for her early  ive been good! how was woodburn?,positive,night,70-100,Cabo Verde,555987,4.03E+03,138
 cddefa4364, Heard that your dad would be going here in September. Would you also come with him?,neutral,morning,0-20,Cambodia,16718965,176520,95
 5612d59230," I heard it was disappointing, which I am disappointed by before I`ve even seen it.  What a waste of C. Bale.",negative,noon,21-30,Cameroon,26545863,472710,56
@@ -3171,7 +3171,7 @@ ec9c43fbb3,Gonna try to get a couple hours of sleep. Love going to bed at 9 am. 
 932227184c,"At every gas station, I look for postcards for   No luck.",negative,noon,60-70,Bulgaria,6948445,108560,64
 00f377c634,ya i walked into the wall thats why i have a plaster on my neck,neutral,night,70-100,Burkina Faso,20903273,273600,76
 b99ba239de,  Hey everyone! I just mixed the first single....!  'Why R U' ...I`m sooo excited!,positive,morning,0-20,Burundi,11890784,25680,463
-1f9663bb46,"Guys will go see Constance 	 logically",neutral,noon,21-30,C�te d'Ivoire,26378274,318000,83
+1f9663bb46,"Guys will go see Constance 	 logically",neutral,noon,21-30,Côte d'Ivoire,26378274,318000,83
 23d8ccab77,did not sleep a wink last night  X,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 f59bbec4a3, // i feel your pain. i once lived in an apt for 6 mos where the previous tenant had 4 cats. burning eyes/tight lungs =  gregg,neutral,morning,46-60,Cambodia,16718965,176520,95
 a37b6c27a2,ahh! big scary bug flying around my room!!!!!,negative,noon,60-70,Cameroon,26545863,472710,56
@@ -3237,7 +3237,7 @@ e2b73ce8df,wow its only 9:30,neutral,morning,0-20,Brunei,437479,5270,83
 665dcd4cf2," Yes.  Me too. I can`t understand why they have to do that. I mean, I know it`s all about Hollywood, but this thing is called love.",positive,noon,21-30,Bulgaria,6948445,108560,64
 0b4a2b2eb1,I hve a blister on my pinky nd it hurts soooo much!,negative,night,31-45,Burkina Faso,20903273,273600,76
 0e72caa348,watching What Happens In Vegas!,neutral,morning,46-60,Burundi,11890784,25680,463
-2c39030bc4,"oh happy day!!! nice weather, smiling, happy baby and icecream later",positive,noon,60-70,C�te d'Ivoire,26378274,318000,83
+2c39030bc4,"oh happy day!!! nice weather, smiling, happy baby and icecream later",positive,noon,60-70,Côte d'Ivoire,26378274,318000,83
 47caebc343,headed to the beach with puppy maverick hugs and much aloha,positive,night,70-100,Cabo Verde,555987,4.03E+03,138
 2dd1bb7561,i want to borrow an MX5 this weekend,neutral,morning,0-20,Cambodia,16718965,176520,95
 109516d45f, LOL! I had a peek at http://geehall.blogspot.com it`s coming along nicely  I totally understand about leaving the set quiet too.,positive,noon,21-30,Cameroon,26545863,472710,56
@@ -3381,7 +3381,7 @@ bbcf6de580, you know I love you.,positive,morning,0-20,Sweden,10099265,410340,25
 342c394b9e,I`m feeling higher than Mt Everest,positive,noon,21-30,Switzerland,8654622,3.95E+04,219
 fa625455c7,Everyone is working tonight! I`m bored,negative,night,31-45,Syria,17500658,183630,95
 14c9c24f55," If you had owned an *actual* cellphone, that would have been video, and called a 'QiK'",neutral,morning,46-60,Tajikistan,9537645,139960,68
-475e19cb22,Oh joy its gong to be a long weekebd... Yipee :*Â¡,positive,noon,60-70,Tanzania,59734218,885800,67
+475e19cb22,Oh joy its gong to be a long weekebd... Yipee :*Ã‚Â¡,positive,noon,60-70,Tanzania,59734218,885800,67
 e035bf28b6,1:30am goin to sleeeeep,neutral,night,70-100,Thailand,69799978,510890,137
 a2a8a42a36, Report your findings to me,neutral,morning,0-20,Timor-Leste,1318445,14870,89
 42e4df338b," Hey!  It`s easy...Just type what you`re doing!  Just like facebook, but much simpler.  Have a good day!",positive,noon,21-30,Togo,8278724,54390,152
@@ -3432,7 +3432,7 @@ e4c90cafae," I`m mo nudge you again, better watch out!",negative,night,31-45,Bra
 82369ff2a2, URGHHHHHHHHHH your makeing me cry,negative,noon,60-70,Bulgaria,6948445,108560,64
 46f859bacf," absolutely tru...the horror of it still washes ovr me sometimes if i think  abt the actual last days, but the gd memories go on",neutral,night,70-100,Burkina Faso,20903273,273600,76
 d3b70656cd,_marie:my heart goes out to you,negative,morning,0-20,Burundi,11890784,25680,463
-d6788e5a4f,_Inc Sounds good. I still like Fridays although it means for me that I have to go to work tomarrow,positive,noon,21-30,C�te d'Ivoire,26378274,318000,83
+d6788e5a4f,_Inc Sounds good. I still like Fridays although it means for me that I have to go to work tomarrow,positive,noon,21-30,Côte d'Ivoire,26378274,318000,83
 bef904fa13, awww! you like anne curtis too tho rite?? it`s her soap thats gonna replace it!,neutral,night,31-45,Cabo Verde,555987,4.03E+03,138
 5f72b7df41,Now have windows 7 up and running....very very happy  it`s got sum wicked new features http://bit.ly/jyWnz,positive,morning,46-60,Cambodia,16718965,176520,95
 43661e198b,"look up our youtube JessAndNicoleMusic, we are new, leave comments and subscribe  thankyou x",neutral,noon,60-70,Cameroon,26545863,472710,56
@@ -3504,7 +3504,7 @@ d24ea15375,It was sunny when I entered the sub-basement.  Now it`s raining.,neut
 c3c168bc80,Orange vitamin water 10 is my new addiction  U should try it.,neutral,noon,60-70,Libya,6871292,1759540,4
 189ea0d26f,  yay thanku! *hugs*,positive,night,70-100,Liechtenstein,38128,160,238
 fa117106ef,  so what was said??  I`m so bummed I missed it!.  *sigh* I want to go to california,negative,morning,0-20,Lithuania,2722289,6.27E+04,43
-f66bda14c6,ï¿½ï¿½We are ready for the new generation!!...Oh yeah...We are a Backstreet fans and we are proud about it!!,positive,noon,21-30,Luxembourg,625978,2590,242
+f66bda14c6,Ã¯Â¿Â½Ã¯Â¿Â½We are ready for the new generation!!...Oh yeah...We are a Backstreet fans and we are proud about it!!,positive,noon,21-30,Luxembourg,625978,2590,242
 cf3dafabb3,.. so I can only recover 10 photos,neutral,night,31-45,Madagascar,27691018,581795,48
 242910ff98," 'We never want to lose the fans that got us here!' Thank you for saying that  Wish you and the others a nice day, greets",positive,morning,46-60,Malawi,19129952,94280,203
 60e5c2c335,chillin bored drinking a margarita. txt me,negative,noon,60-70,Malaysia,32365999,328550,99

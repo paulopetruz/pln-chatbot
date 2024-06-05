@@ -8,9 +8,9 @@ def chatbot_response(user_input):
     sentiment = analyze_sentiment(processed_input)
     # Lógica de resposta baseada no sentimento
     if sentiment == 'positive':
-        response = "Que ótimo! Como posso ajudar mais?"
+        response = "Eita como tá feliz, me passa um pouco dessa sua felicidade"
     elif sentiment == 'negative':
-        response = "Sinto muito que você esteja se sentindo assim. Em que posso ajudar?"
+        response = "Ih rapaz, parece que você ativou o meu sentido de confusão!"
     else:
-        response = "Entendo. Em que mais posso ajudar?"
+        response = "Hmm, sem grandes surpresas aqui. Continue balançando pelas ruas da cidade!"
     return response

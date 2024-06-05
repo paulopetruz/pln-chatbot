@@ -1,61 +1,55 @@
 **# Projeto final: Desenvolvimento de Chatbot com Análise de Sentimento**
 
-**## Objetivo:**
+# Chatbot com Análise de Sentimentos
 
-Desenvolver um chatbot capaz de interagir com usuários, compreendendo e respondendo a mensagens de forma contextualmente relevante, utilizando técnicas de processamento de linguagem natural, com ênfase na análise de sentimentos.
+Este projeto desenvolve um chatbot capaz de interagir com usuários, compreendendo e respondendo a mensagens de forma contextualmente relevante, utilizando técnicas de processamento de linguagem natural (NLP) com ênfase na análise de sentimentos.
 
-## Etapas do Projeto:
+## Objetivo
 
-1. **Definição do Escopo** 
+- Desenvolver um chatbot que possa fornecer respostas contextualmente relevantes.
+- Implementar a análise de sentimentos para entender a polaridade emocional das mensagens dos usuários.
 
-Identificar o propósito do chatbot (por exemplo, suporte ao cliente, assistente pessoal, repositório de informação, entretenimento, etc.).
+## Funcionalidades
 
-2. **Coleta de Dados**
+- Processamento de texto: remoção de URLs, menções, hashtags, pontuação e conversão para minúsculas.
+- Tokenização, remoção de stop words e lematização.
+- Análise de sentimentos usando NLTK.
+- Interface gráfica de usuário (GUI) usando Tkinter.
 
-A base conterá conhecimento para o chatbot referente ao assunto definido na etapa 1.
+## Base de dados utilizada no treinamento
+- Sentimentos do Twitter pelo mundo
 
-3. **Pré-processamento e Análise de Sentimento**
+## Requisitos
 
-Implementação de técnicas de pré-processamento de texto (para melhorar a correspondência entre a entrada do usuário e as frases contidas na base de conhecimento).
+- Python 3.x
+- Bibliotecas Python: pandas, nltk, scikit-learn, tk
 
-Integração de um módulo de análise de sentimento (NLTK ou TF-IDF) para entender a polaridade emocional de novas mensagens entradas pelo usuário.
+## Instalação
 
-Se o modelo escolhido for por NLTK, basta usar as funções da biblioteca. Se for TF-IDF, há a necessidade de desenvolver uma árvore e, para isso, utilizaremos uma nova base de conhecimento com as possíveis frases de entrada analisadas quanto ao seu sentimento (pode desenvolver ou buscar no kaggle).
+1. Clone este repositório:
+    ```bash
+    git clone https://github.com/paulopetruz/pln-chatbot
+    cd pln-chatbot
+    ```
 
-4. **Treinamento do Modelo de Linguagem (só para a TF-IDF)**
+2. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-Treinamento do modelo (árvore) utilizando os dados coletados (para o caso do TF-IDF).
+## Uso
 
-5. **Integração da Análise de Sentimento no Chatbot**
+1. Coloque seu arquivo CSV com dados no diretório principal do projeto.
+2. Execute o script principal:
+    ```bash
+    python main.py
+    ```
 
-Os alunos integram o módulo de análise de sentimento no fluxo de processamento do chatbot.
+3. Interaja com o chatbot através da interface gráfica que será aberta.
 
-Desenvolvimento de lógica para ajustar respostas com base na análise de sentimento.
-
-6. **Desenvolvimento da Interface de Usuário**
-
-TKinter - python
-
-interfaces em python - não usar o Colab (IDLE, pyCharm, outros…)
-
-Implementação de uma interface de usuário amigável para interação com o chatbot.
-
-Considerar a possibilidade do usuário ajustar o humor das respostas do Chatbot (a mais)
-
-7. **Testes e Avaliação**
-
-Testes do chatbot em diferentes cenários.
-
-Avaliação da eficácia da análise de sentimento em relação às respostas geradas.
-
-8. **Otimização e Ajustes**
-
-Ajustes no modelo e na lógica do chatbot com base nos resultados dos testes.
-
-Otimização da performance e eficiência.
-
-9. **Apresentação Final**
-
-Apresentação do chatbot em funcionamento, destacando os recursos de análise de sentimento e interatividade.
-
-Discussão sobre desafios enfrentados, lições aprendidas e eficiência do modelo
+## Estrutura do Projeto
+- `main.py`: Script principal para execução do chatbot.
+- `preprocessing.py`: Funções de pré-processamento de texto.
+- `model_training.py`: Funções para treinamento do modelo de análise de sentimentos.
+- `interface.py`: Código da interface gráfica com Tkinter.
+- `requirements.txt`: Lista de dependências do projeto.
